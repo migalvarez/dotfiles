@@ -1,0 +1,16 @@
+set adjust-open width
+set window-title-basename true
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+set first-page-column 2
+map <C-c> recolor
+map p print
+map - zoom out
+map + zoom in
+
+set selection-clipboard clipboard
+set recolor-darkcolor  "#FFFFFF"
+set recolor-lightcolor "#333333"
+set recolor-keephue
+

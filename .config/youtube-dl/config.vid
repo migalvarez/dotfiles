@@ -1,0 +1,8 @@
+--write-sub
+--no-overwrites
+--write-thumbnail
+--restrict-filenames
+--sub-lang en,es
+--ignore-errors
+-f bestvideo[ext=mp4]+bestaudio[ext=m4a]/best
+-o ~/vid/yt/%(playlist)s/%(title)s/%(title)s-%(id)s.%(ext)s

@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/meguel/doc'
+let g:netrw_dirhist_2='/home/meguel'
+let g:netrw_dirhist_3='/home/meguel/usb/System Volume Information'
+let g:netrw_dirhist_4='/home/meguel/usb'
+let g:netrw_dirhist_5='/home/meguel/octave'
+let g:netrw_dirhist_6='/home/meguel/Lab-Numerico-2019-1/Lab6'
+let g:netrw_dirhist_7='/home/meguel/doc/bks'
